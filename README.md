@@ -1,7 +1,7 @@
 🧠 Deepfake Detection Hackathon – Synergy’25
 Team: ViksithBharat2047
 
-Developed by: Aakash Jangeeti
+Developed by: Adarsh J
 
 📘 Project Overview
 
@@ -31,6 +31,7 @@ test-*	Folder containing unseen test images
 train_outputs.json	Merged JSON used for training
 ViksithBharat2047_prediction.json	Final output file (submission)
 ⚙️ Folder Structure
+
 Synergy25/
 │
 ├── fake_cifake_images-20251109T090416Z-1-001/
